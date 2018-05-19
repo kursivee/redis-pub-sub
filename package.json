@@ -1,0 +1,11 @@
+{
+  "name": "redis-pub-sub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kursivee",
+  "license": "MIT",
+  "dependencies": {
+    "redis": "^2.8.0",
+    "say": "^0.14.0"
+  }
+}
